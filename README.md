@@ -17,3 +17,8 @@ https://www.eyelevel.ai/
 https://docs.eyelevel.ai/reference/api-reference/search/content
 https://github.com/modelcontextprotocol/python-sdk
 ```
+
+```
+langgraph imp links and resources
+https://langchain-ai.github.io/langgraph/reference/graphs/
+```
